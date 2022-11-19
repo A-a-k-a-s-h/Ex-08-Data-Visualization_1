@@ -21,7 +21,7 @@ Apply data visualization techniques to identify the patterns of the data.
 /* 
 Name : Aakash H
 Register Number : 212220040002
-**Data Visualization - Superstore.csv**
+**Data Visualization - Iris.csv**
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -56,7 +56,7 @@ plt.show()
 */
 ```
 # OUPUT
-## Data Visualization - Superstore.csv
+## Data Visualization - Iris.csv
 ![Data_Visualization](/images/img.png)
 ![Data_Visualization](/images/img2.png)
 ![Data_Visualization](/images/img3.png)
